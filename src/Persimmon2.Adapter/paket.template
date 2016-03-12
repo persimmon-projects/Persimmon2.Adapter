@@ -1,0 +1,23 @@
+type project
+owners
+    bleis-tift, Gab-km, kekyo, pocketberserker, yukitos
+authors 
+    bleis-tift, Gab-km, kekyo, pocketberserker, yukitos
+projectUrl
+    http://github.com/persimmon-projects/Persimmon2.Adapter
+iconUrl
+    https://raw.githubusercontent.com/persimmon-projects/Persimmon2.Adapter/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/persimmon-projects/Persimmon2.Adapter/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    Persimmon F# test testing
+summary
+    This is a library for the Persimmon client.
+description
+    This is a library for the Persimmon client. It contains TestCollector, Formatter, Printer, Reporter and TestRunner.
+
+
